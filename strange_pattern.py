@@ -37,3 +37,15 @@ if __name__ == "__main__":
     m = 8
     pattern = strange_pattern((6,8))
     print(pattern)
+
+
+```bash
+git add .
+```
+
+```bash
+git commit -m "Commit message"
+```
+
+```bash
+git push
